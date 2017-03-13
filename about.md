@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 
-![](/images/me.jpg)
+![](../images/me.jpg)
 
 Hello, my name is Christian Kantelberg. I work as an IT security manager in a state institution and privately I deal with servers, linux, photography and everything else that interests me in the wide wide IT landscape.
 
