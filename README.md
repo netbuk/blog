@@ -99,27 +99,6 @@ url: "https://localhost:4000"
 baseurl: "/<branch-name>"
 ```
 
-## Run in Local
-
-1. Download or clone your remote repository.
-2. Go inside folder. First, run `rake geminstall`. 
-3. Second, run `jekyll serve` or `rake preview`. This will build a website which you can access [https://localhost:4000](https://localhost:4000). Make sure that `url` in `_config.yml` file is `url: "https://localhost:4000"`. You need to have [Jekyll](https://jekyllrb.com/docs/installation/) installed to do this.
-
-## Rakefile Usage
-
-```bash
-# Create new post
-$ rake post title="A Title" [date="2015-08-16"] [tags="[tag1, tag2]"] 
-
-# Create new draft post
-$ rake draft title="A Title" [date="2015-08-16"] [tags="[tag1, tag2]"]
-
-# Install Jekyll Plugins. Do before running in local.
-$ rake geminstall
-
-# Run in Local
-$ rake preview
-```
 
 ## License
 
