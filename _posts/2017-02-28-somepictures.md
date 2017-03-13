@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "some pictures"
+description: "Ein paar Fotos von meiner letzten kleinen Wandertour"
 date: 2017-02-28
 tags: [foto, flickr, fotografie, lightroom, kamera]
 comments: true
