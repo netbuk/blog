@@ -55,6 +55,8 @@ nav:
     url:            "/tags"
   - name:           "Forum"
     url:            "https://forum.chrischan.rocks"
+  - name:           "Imprint"
+    url:            "/imprint/"
 
 # Sass
 sass:
