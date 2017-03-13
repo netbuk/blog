@@ -10,7 +10,7 @@ We expressly point out that data transmission on the Internet (for example, by e
 
 The use of the contact data of our imprint for commercial advertising is expressly not desired, unless we had previously given our written consent or there is already a business relationship. The provider and all persons mentioned on this website hereby object to any commercial use or transmission of their data. The operators of the pages expressly reserve the right to take legal steps in the event of the unsolicited sending of advertising information, for example by spam mail.
 
-We do not only demand stricter data protection, we also try to implement it ourselves. The Internet presence is operated on a server of [Uberspace](https://uberspace.de). The operator of the Internet presence has only read-only access to the Access.log. All other log files are the responsibility of the server operator. For more information on Uberspace's privacy, see the [Server Operator's Web Site](https://uberspace.com/privacy).
+We do not only demand stricter data protection, we also try to implement it ourselves. The Internet presence is operated on [Github](https://github.com). The operator of the Internet presence has no access to the Access.log or all other log files. They are the responsibility of the server operator. For more information on Github's privacy, see the [Server Operator's Web Site](https://help.github.com/articles/github-privacy-statement/).
 
 The legal foundations of data protection can be found in the German Federal Data Protection Act (BDSG) and the Telemediengesetz (TMG).
 
@@ -50,10 +50,10 @@ It is also possible to comment as a guest, but some functions are not available.
 DISQUS is an international platform. By signing up, you can comment on any website that uses DISQUS.
 ~~
 
-###### Comments
+~~###### Comments
 The comment-system which are used at chrischan.rocks are selfhosted and powered by [ISSO](https://posativ.org/isso/).
 So your comments are saved at the same uberspace server like the blog and under my control.
-Your comments are moderated, so don´t cry when you write one and don´t see it after this.
+Your comments are moderated, so don´t cry when you write one and don´t see it after this.~~
 
 ###### Cookies
 Cookies are small files that allow you to store specific information related to the device on the user's access point (PC, smartphone, etc.). They serve on the one hand the user friendliness of web pages and thus the users (for example logging of logindates). On the other hand they are used to record the statistical data of the website and to be able to analyze them for the purpose of improving the offer. Users can influence the use of cookies. Most browsers have an option to restrict or prevent cookies from being stored. However, it should be noted that the use and, in particular, the use of the services without cookies is restricted.
