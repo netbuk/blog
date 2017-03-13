@@ -42,9 +42,9 @@ Derzeit laufen 8 Apps (Programme in Docker Container) auf dem Server und es ist 
 
 ### Die Auslastung
 
-![](/content/images/2017/01/Cloudron_Speicherplatz.png)
-![](/content/images/2017/01/Cloudron_Arbeitsspeicher.png)
-![](/content/images/2017/01/Cloudron_Graph.png)
+![](/images/Cloudron_Speicherplatz.png)
+![](/images/Cloudron_Arbeitsspeicher.png)
+![](/images/Cloudron_Graph.png)
 
 Da ich mir noch nicht im Klaren bin, ob diese Variante VPS - [Cloudron](http://cloudron.io) für mich Bestand hat und auch das Thema Backup, Sicherheit und allgemeiner Betrieb ausschlaggebend sind, habe ich mich, dafür entschieden, meinen (Haupt)Blog wieder auf einem [Uberspace](http://uberspace.de) zu betreiben. 
 Der Wartungsaufwand ist eigentlich überschaubar. Updates für [Ghost](https://ghost.org/de/developers/) bekomme ich mittels Newsletter/ Feedly mit und [Uberspace](https://uberspace.de) bietet dazu auch ein [Script](https://wiki.uberspace.de/cool:ghost#ghost_updaten_alpha) an. Backups kann ich manuell durchführen, was bei [Cloudron](http://cloudron.io) für mich derzeit noch nicht ersichtlich ist. Und zu guter Letzt kann ich den [Preis für den Blog/ Uberspace selber bestimmen](https://uberspace.de/prices).
