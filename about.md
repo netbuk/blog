@@ -3,129 +3,26 @@ title: About
 permalink: /about/
 ---
 
-You can see live demo [here](https://aweekj.github.io/Kiko-plus). This theme is inspired by [Kiko](http://github.com/gfjaru/Kiko) theme.
 
-## Features
+![](/images/me.jpg)
 
-- Disqus comment system
-- Google analytics
-- Pagination support
-- Custom tags
-- SEO support
+Hello, my name is Christian Kantelberg. I work as an IT security manager in a state institution and privately I deal with servers, linux, photography and everything else that interests me in the wide wide IT landscape.
 
+## Contact
+Feel free to contact me and talk about the written word that has been written down or shared here. You can contact me in the nostalgic way (you find my mail adress [here](/impressum)) or via [Twitter](https://twitter.com/der__k).
 
-## Installation
+## Colophon
+This website runs with [Ghost](http://ghost.org) and the design is from [Oscar Morrison](http://oscarmorrison.com).
 
-#### Method 1: new master's repository (The Best)
+## My setup
+Below you will find some information about my IT setup with which I am currently working. Share this information with others is currently *IN* :-D
 
-1. First [fork](https://github.com/AWEEKJ/Kiko-plus/fork) it.
-2. Change your forked repository name _Kiko-plus_ to __USERNAME.github.io__ where __USERNAME__ is your github username.
-3. Access your new blog via [https://username.github.io](https://username.github.io).
-4. [See configuration](#configuration).
+### Hardware
+I am working with a 13-inch MacBook Pro (Late 2015) with 8GB of random access memory and 128GB of memory. It is connected to a 24-inch Acer S242HLCBID display and extended by a apple keyboard (wired) and a Logitech Mouse G300. Now and then I also get my [Thinkpad T61](http://thinkwiki.de/T61) with 4GB memory and 256 SSD from the drawer.
 
-#### Method 2: gh-pages in existing repository
+Mobile I'm traveling with an [iPhone SE](https://www.apple.com/de/iphone-se/) and an iPad Air first generation.
 
-1. Create a new branch called _gh-pages_ in the repository where you want to add a template [managing branches](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/).
-2. From command line run `git clone https://github.com/AWEEKJ/Kiko-plus.git` - this will clone _Kiko-plus_ template to your computer.
-3. Create new branch `git checkout -b gh-pages` where _gh-pages_ will be your branch name.
-4. Add remote, which is your repo from the first step, to your new branch `git remote add gh-pages https://github.com/<yourName>/<yourMaster>/gh-pages`. _yourName_ is your account name and _yourMaster_ is your repository.
-5. Push new branch to remote `git push gh-pages`.
-6. Update `_config.yml` file by changing `baseurl: "<branchName>"` _branchName_ is your branch name where _gh-pages_ resides. See [configuration](#configuration).
+As data storage I use an [RPi](https://www.raspberrypi.org/) configuration and a USB3 RAID system.
 
-#### Method 3: Run it locally
-
-1. Download [zip](https://github.com/AWEEKJ/Kiko-plus/archive/master.zip) or clone it `git clone https://github.com/AWEEKJ/Kiko-plus`.
-2. Go inside folder and run `jekyll serve` or `rake preview`. This will build a website which you can access [https://localhost:4000](https://localhost:4000). You need to have [Jekyll](https://jekyllrb.com/docs/installation/) installed to do this.
-
-
-## Configuration
-
-All configuration is done via `_config.yml` file which you will find in your main repo folder. Change this `<something>` to yours.
-
-### Basic
-
-- Config your blog name.
-
-```yml
-name: <blog-name>
-```
-
-- These configuration in `author:` is for links to icons in footer. If you want to add more link icons, modify `_includes/footer.html` file.
-
-```yml
-author:
-  facebook:         your-id
-  twitter:          your-id
-  github:           your-id
-  linkedin:         your-id
-  medium:           your-id
-  tumblr:           your-id
-  email:            your-id@your-email.com
-```
-
-- Change copyright year and name in footer.
-
-```yml
-copyright:
-  year:             2017
-  name:             Kiko
-```
-
-### Google analytics
-
-- Change this to your Google Analytic ID.
-
-```yml
-google-analytics:
-  id:               "your-id"
-```
-
-### Disqus
-
-- Change this to your Disqus short name.
-
-```yml
-disqus:
-  id:               "your-id"
-```
-
-### URL
-
-- Config your domain.
-
-```yml
-url: "https://<your-name>.github.io"
-```
-
-- **NOTE** When if running locally, change url to 
-
-```yml
-url: "https://localhost:4000"
-```
-
-- Change this to your branch name where _gh-pages_ resides. 
-- **NOTE** apply only if you used __Method 2__ for installation.
-
-```yml
-baseurl: "/<branch-name>"
-```
-
-## Rakefile Usage
-
-```bash
-# Create new post
-$ rake post title="A Title" [date="2015-08-16"] [tags="[tag1, tag2]"] 
-
-# Create new draft post
-$ rake draft title="A Title" [date="2015-08-16"] [tags="[tag1, tag2]"]
-
-# Install Jekyll Plugins. Do before running in local.
-$ rake geminstall
-
-# Run in Local
-$ rake preview
-```
-
-## License
-
-This theme is released under MIT License.
+### Software
+The MacBook Pro comes with macOS Sierra under the hood and the T61 runs with [Manjaro XFCE edition](https://manjaro.github.io/). The editor of my choice is [Brackets](http://brackets.io/) with [dark-material-theme](https://github.com/naderi/material-theme-for-brackets) and for markdown I use [write](http://writeapp.net/mac/). My data I move with [Transmit](https://panic.com/transmit/) to the servers of [Uberspace](https://uberspace.de) or a push with the [Github client](https://client.github.com) to [Github](https://github.com/). For graphics and photos, I use the grandiose [Photoshop](https://www.adobe.com/de/products/photoshop.html) or [Lightroom](https://www.adobe.com/de/products/photoshop-lightroom.html) from the [Adobe Creative Cloud](https://www.adobe.com/de/products/catalog.html). Notes and ideas are still flowing into [Evernote](https://evernote.com/) or [Bear](http://www.bear-writer.com/).
