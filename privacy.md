@@ -36,7 +36,7 @@ The following apps are used:
 
 - ScrapeShield
 
-~~ ###### Disqus
+~~###### Disqus
 This blog uses the DISQUS comment system provided by the company
 
 DISQUS, Inc., 
@@ -47,8 +47,7 @@ You can find the data protection information of DISQUS [here](https://help.disqu
 
 It is also possible to comment as a guest, but some functions are not available.
 
-DISQUS is an international platform. By signing up, you can comment on any website that uses DISQUS.
-~~
+DISQUS is an international platform. By signing up, you can comment on any website that uses DISQUS.~~
 
 ~~###### Comments
 The comment-system which are used at chrischan.rocks are selfhosted and powered by [ISSO](https://posativ.org/isso/).
