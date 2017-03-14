@@ -3,7 +3,7 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "Chrischan.rocks"
+name:               "~ Chrischans Blog$"
 
 author:
   facebook:         christian.kantelberg
@@ -13,6 +13,7 @@ author:
   medium:           netbuk
   tumblr:           your-id
   email:            christian.kantelberg@mailbox.org
+  flickr:           christiankantelberg
 
 copyright:
   year:             2017

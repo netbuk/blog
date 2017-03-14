@@ -30,6 +30,12 @@
     <a href="mailto:{{ site.author.email }}"><i class="fa fa-envelope" aria-hidden="true"></i></a>
     {% endif %}
 
+    {% if site.author.flickr %}
+    <a href="https://flickr.com/photos/{{ site.author.medium }}"><i class="fa fa-flickr" aria-hidden="true"></i></a>
+    {% endif %}   
+      
+    <a href="/feed.xml"><i class="fa fa-rss" aria-hidden="true"></i></a>
+      
   </div>
   © {{ site.copyright.year }} {{ site.copyright.name }}. All rights reserved.
 </div>
