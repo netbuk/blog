@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "New comment system online"
+description: "ISSO - Das etwas andere Kommentarsystem"
 date: 2017-01-26
 tags: [isso, blog, kommentare]
 comments: true

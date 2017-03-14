@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Neues Jahr, neue Struktur"
+description: "Dies und das, ein bisschen Technik, oder nicht?"
 date: 2017-01-07
 tags: [uberspace, ghost, server, blog, cloudron, services, contabo]
 comments: true

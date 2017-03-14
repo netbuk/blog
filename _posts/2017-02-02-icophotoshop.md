@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ".ICO in Photoshop"
+description: "Photoshop kann schon viel in seiner Grundeinstellung, aber auch nicht alles. Bisher bin ich immer mit der Bearbeitung von .ico Dateien gescheitert."
 date: 2017-02-02
 tags: [photoshop, plugin]
 comments: true
