@@ -9,10 +9,10 @@ permalink: /about/
 Hello, my name is Christian Kantelberg. I work as an IT security manager in a state institution and privately I deal with servers, linux, photography and everything else that interests me in the wide wide IT landscape.
 
 ## Contact
-Feel free to contact me and talk about the written word that has been written down or shared here. You can contact me in the nostalgic way (you find my mail adress [here](/impressum)) or via [Twitter](https://twitter.com/der__k).
+Feel free to contact me and talk about the written word that has been written down or shared here. You can contact me in the nostalgic way (you find my mail adress [here](/imprint)) or via [Twitter](https://twitter.com/der__k).
 
 ## Colophon
-This website runs with [Ghost](http://ghost.org) and the design is from [Oscar Morrison](http://oscarmorrison.com).
+This website runs with [Jekyll](http://jykell.org) on [Github](https://github.com) and the design is from [Hanju Jamie J](https://github.com/AWEEKJ).
 
 ## My setup
 Below you will find some information about my IT setup with which I am currently working. Share this information with others is currently *IN* :-D

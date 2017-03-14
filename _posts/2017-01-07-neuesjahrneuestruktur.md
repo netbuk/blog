@@ -52,5 +52,3 @@ Der Wartungsaufwand ist eigentlich überschaubar. Updates für [Ghost](https://g
 Vielleicht komme ich nach einigem Testen und ausprobieren zum Entschluss, dass ich eigentlich die ganzen Services gar nicht brauche und eine einfache Plattform ausreichend ist. 
 
 Das wird sich zeigen, 2017 ist noch jung ....
-
-*Photo powered by unsplash - [Scott Webb](https://unsplash.com/@scottwebb)*
