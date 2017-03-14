@@ -56,6 +56,10 @@ nav:
     url:            "/tags"
   - name:           "Forum"
     url:            "https://forum.chrischan.rocks"
+  - name:           "Wiki"
+    url:            "https://github.com/netbuk/blog/wiki"
+  - name:           "Doku"
+    url:            "http://documentations.readthedocs.io/de/latest/"
   - name:           "Imprint"
     url:            "/imprint/"
 
