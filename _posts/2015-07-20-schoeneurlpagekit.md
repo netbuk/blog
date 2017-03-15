@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pagekit mit "schönen URLs" auf Uberspace"
+title: "Pagekit mit schönen URLs auf Uberspace"
 date: 2015-07-20
 tags: [uberspace, pagekit, archive]
 comments: true
