@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "changing basement"
-description: "Der Abschuß ist vollzogen, hin zu einem reinen Jekll Blog."
+description: "Der Abschuß ist vollzogen, hin zu einem reinen Jekyll Blog."
 date: 2017-03-20
 tags: [blog, wiki, dokumentation, github]
 comments: true
