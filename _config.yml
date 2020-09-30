@@ -6,14 +6,14 @@
 name:               "~ Chrischans Blog$"
 
 author:
-  facebook:         your-id
+#  facebook:         your-id
   twitter:          der__k
   github:           netbuk
-  linkedin:         your-id
-  medium:           your-id
-  tumblr:           your-id
+#  linkedin:         your-id
+#  medium:           your-id
+#  tumblr:           your-id
   email:            hallo@chrischan.rocks
-  flickr:           your-id
+#  flickr:           your-id
   instagram:        der.k
 
 copyright:
