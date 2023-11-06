@@ -6,7 +6,7 @@ permalink: /about/
 
 ![](../images/IMG_1.jpeg)
 
-Hello, my name is Christian Kantelberg. I work as an IT security manager in a state institution and privately I deal with servers, linux, photography and everything else that interests me in the wide wide IT landscape.
+Welcome to my weblog, my personal internet existence on the world wide web. Here I write about things that interest me and that others probably find boring. Mostly this is about computers, sports and other nonsense.
 
 ## Contact
 Feel free to contact me and talk about the written word that has been written down or shared here. You can contact me via [Keybase](https://keybase.io/netbuk), [Mastodon](https://social.tchncs.de/@netbuk) or [Threema](https://threema.id/A8BFSNJ8).
