@@ -40,7 +40,11 @@
     {% if site.author.email %}
     <a href="mailto:{{ site.author.email }}"><i class="fa fa-envelope" aria-hidden="true"></i></a>
     {% endif %}
-      
+ 
+    {% if site.author.mastodon %}
+    <a href="https://social.tchncs.de/@{{ site.author.mastodon }}" target="_blank"><i class="fa fa-mastodon" aria-hidden="true"></i></a>
+    {% endif %}   
+
   </div>
   © {{ site.copyright.year }} {{ site.copyright.name }}. All rights reserved.
 </div>
