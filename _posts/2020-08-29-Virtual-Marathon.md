@@ -13,9 +13,9 @@ Alles in allem war der Lauf schon recht fordernd und mich ärgert es ein wenig, 
 
 Alles in allem hat es Spaß gemacht und in 2 Wochen geht es dann schon auf den nächsten virtual Run. Es steht der [Münz Firmenlauf](https://muenz-sport.de/aktiv-event/muenz-firmenlauf-wir-laufen-auch-2020/) auf dem Programm, den ich im Team BAAINBw mitlaufen werde.
 
-![](images/2020/Bildschirmfoto-2020-08-29-um-19.05.56-769x1024.png)
+![](/images/2020/Bildschirmfoto-2020-08-29-um-19.05.56-769x1024.png)
 
 > ***Edit 2020/09/01: ***Platz 14 von 75 ([https://my.raceresult.com/153998/](https://my.raceresult.com/153998/))
 
-![](images/2020/Bildschirmfoto-2020-09-01-um-10.57.26.png)
+![](/images/2020/Bildschirmfoto-2020-09-01-um-10.57.26.png)
  
