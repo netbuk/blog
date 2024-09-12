@@ -3,8 +3,11 @@ title: Imprint
 permalink: /imprint/
 ---
 
-~Chrischans Blog$ (Christian Kantelberg)<br />
+~Chrischans Blog$<br />
+Christian Kantelberg<br />
+Obergasse 8<br />
 65624 Altendiez, Deutschland <br />
+Mobil: 0049 176 5678 0483
 E-Mail: moin (at) netbuk (punkt) de <br />
 
 Wenn Du mit mir über irgendwelche Dinge reden willst, dann schreib mir doch einfach.
@@ -13,7 +16,10 @@ Wenn Du mit mir über irgendwelche Dinge reden willst, dann schreib mir doch ein
 🐘 Mastodon [@netbuk@social.tchncs.de](https://social.tchncs.de/@netbuk)<br>
 🔐 Keybase [@netbuk](https://keybase.io/netbuk)
 
-Die Verwendung der Kontaktdaten dieses Impressums für kommerzielle Werbung ist ausdrücklich nicht erwünscht, es sei denn, wir hatten zuvor unsere schriftliche Zustimmung erteilt oder es besteht bereits eine Geschäftsbeziehung. Der Anbieter und alle auf dieser Website genannten Personen widersprechen hiermit jeder kommerziellen Nutzung und Übertragung ihrer Daten. Die Betreiber der Seiten behalten sich ausdrücklich das Recht vor, im Falle des unaufgeforderten Versands von Werbeinformationen, zum Beispiel per Spam-Mail, rechtliche Schritte einzuleiten.
+Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten zur Übersendung von
+nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit widersprochen. Die
+Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von
+Werbeinformationen, etwa durch Spam-E-Mails, vor.
 
 ### Weitere rechtliche Dinge
 
