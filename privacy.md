@@ -55,9 +55,9 @@ Leistungspflichten erforderlich ist und unsere Weisungen in Bezug auf diese Date
 
 Wir setzen folgende(n) Hoster ein:
 
-GitHub B.V
-Prins Bernhardplein 200
-Amsterdam 1097JB
+GitHub B.V<br />
+Prins Bernhardplein 200<br />
+Amsterdam 1097JB<br />
 Niederlande
 
 Weitere Informationen zum Datenschutz von Github finden Sie auf der [Website des Serverbetreibers](https://help.github.com/articles/github-privacy-statement/). Der im Impressum angegebene Betreiber der Internetpräsenz hat keinen Zugriff auf die Access.log oder andere Protokolldateien. Sie liegen in der Verantwortung des Serverbetreibers Github.
@@ -87,10 +87,11 @@ möglich.
 
 ### Hinweis zur verantwortlichen Stelle
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
-Christian Kantelberg
-Obergasse 8
-65624 Altendiez
-Telefon: +49 (0) 176 56780483
+
+Christian Kantelberg<br />
+Obergasse 8<br />
+65624 Altendiez<br />
+Telefon: +49 (0) 176 56780483<br />
 E-Mail: moin (at) netbuk (Punkt) de
 
 Verantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über
@@ -245,4 +246,4 @@ auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die
 (z. B. nach abgeschlossener Bearbeitung Ihres Anliegens). Zwingende gesetzliche Bestimmungen –
 insbesondere gesetzliche Aufbewahrungsfristen – bleiben unberührt.
 
-Quelle: https://www.e-recht24.de
+Quelle: [https://www.e-recht24.de](https://www.e-recht24.de)
