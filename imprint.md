@@ -7,7 +7,7 @@ permalink: /imprint/
 Christian Kantelberg<br />
 Obergasse 8<br />
 65624 Altendiez, Deutschland <br />
-Mobil: 0049 176 5678 0483
+Mobil: 0049 176 5678 0483<br />
 E-Mail: moin (at) netbuk (punkt) de <br />
 
 Wenn Du mit mir über irgendwelche Dinge reden willst, dann schreib mir doch einfach.
