@@ -12,7 +12,7 @@ author:
 #  linkedin:         your-id
 #  medium:           your-id
 #  tumblr:           your-id
-  email:            moin@kantelberg.net
+  email:            moin@netbuk.de
 #  flickr:           your-id
   instagram:        der.k
   mastodon:         netbuk
@@ -30,7 +30,7 @@ disqus:
   id:               "#"
 
 # URL
-url:                "https://christian.kantelberg.net" # the base hostname & protocol for your site
+url:                "https://netbuk.de" # the base hostname & protocol for your site
 # url:                "http://localhost:4000" # use this url when you develop
 # baseurl:            "/blog" # the subpath of your site, e.g. /blog
 
