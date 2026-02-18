@@ -2,7 +2,7 @@
 layout: post
 title: Back at Github
 description: ""
-tags: [Github. Blog]
+tags: [Github,Blog]
 share: false
 ---
 
